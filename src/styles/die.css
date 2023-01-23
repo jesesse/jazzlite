@@ -1,0 +1,10 @@
+.die {
+    width: 100px;
+    border-radius: 15px;
+    opacity: 75%;
+}
+
+.die:hover {
+    cursor: pointer;
+    box-shadow: 0 0 15px black;
+}
